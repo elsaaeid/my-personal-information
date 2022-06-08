@@ -1,5 +1,3 @@
-# my-personal information 
-
 Hello every body, 👋
 I would like to introduce myself.
 my name's saaeid that l am twenty sex years old and l am exampt from military service and my homeland's Egypt the city of mansoura .
