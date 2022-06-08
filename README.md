@@ -1,7 +1,7 @@
 # my-personal information 
 
 Hello every body, 👋
-I would like to introduce myself
+I would like to introduce myself.
 my name's saaeid that l am twenty sex years old and l am exampt from military service and my homeland's Egypt the city of mansoura .
 My hobbies are positive energy music and making creative entertainment videos .
 SoI have five years of experience developing front end UIs and two years using ReactJs library inside of client as well as server side .
